@@ -28,4 +28,20 @@ Once the application is running, you can navigate through the different sections
 - **Crosswords:** Solve the crossword puzzles by filling in the correct words based on the provided clues.
 
 ## Screenshots
+1. Main page:
+   ![Image alt](https://github.com/Camille-Mlkv/MindGames/blob/main/MainPage.png)
+   
+2. Choose a quiz Page:
+   ![Image alt](https://github.com/Camille-Mlkv/MindGames/blob/main/QuizChoose.png)
 
+3. Quiz page:
+   ![Image alt](https://github.com/Camille-Mlkv/MindGames/blob/main/QuizDef.png)
+
+4. Solve and check quiz:
+   ![Image alt](https://github.com/Camille-Mlkv/MindGames/blob/main/QuizCheck.png)
+
+5. Chess page:
+   ![Image alt](https://github.com/Camille-Mlkv/MindGames/blob/main/Chess.png)
+
+6. Crossword page:
+   ![Image alt](https://github.com/Camille-Mlkv/MindGames/blob/main/Crossword.png)
